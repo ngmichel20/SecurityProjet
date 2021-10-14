@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Documents/NetBeansProjects/Security_Project_NguyenMichel48962/Security_Nguyen/Security_Server/src/esi/security_view/Main.java</file>
+            <file>file:/D:/Documents/NetBeansProjects/Security_Project_NguyenMichel48962/Security_Nguyen/Security_Server/src/esi/security/db/ClientDB.java</file>
+            <file>file:/D:/Documents/NetBeansProjects/Security_Project_NguyenMichel48962/Security_Nguyen/Security_Server/src/esi/security/db/DBManager.java</file>
+            <file>file:/D:/Documents/NetBeansProjects/Security_Project_NguyenMichel48962/Security_Nguyen/Security_Server/src/esi/security/dto/Dto_DataClient.java</file>
+            <file>file:/D:/Documents/NetBeansProjects/Security_Project_NguyenMichel48962/Security_Nguyen/Security_Server/src/esi/security/dto/Dto_Client.java</file>
+            <file>file:/D:/Documents/NetBeansProjects/Security_Project_NguyenMichel48962/Security_Nguyen/Security_Server/src/esi/security/db/FacadeDB.java</file>
+            <file>file:/D:/Documents/NetBeansProjects/Security_Project_NguyenMichel48962/Security_Nguyen/Security_Server/src/esi/securiteserver/NetworkServer.java</file>
+            <file>file:/D:/Documents/NetBeansProjects/Security_Project_NguyenMichel48962/Security_Nguyen/Security_Server/src/esi/security/db/Data_ClientDB.java</file>
+            <file>file:/D:/Documents/NetBeansProjects/Security_Project_NguyenMichel48962/Security_Nguyen/Security_Server/src/esi/securiteserver/ThreadServer.java</file>
+        </group>
+    </open-files>
+</project-private>

@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Aug 31 09:41:57 CEST 2020:
+Amorçage de Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579) : instance a816c00e-0174-4377-295e-0000075849d8 
+dans le répertoire de base de données D:\Documents\NetBeansProjects\Security_Project_NguyenMichel48962\Security_Nguyen\Security_Server\DBServer avec le chargeur de classe jdk.internal.loader.ClassLoaders$AppClassLoader@4e0e2f2a
+Chargé de file:/D:/Documents/NetBeansProjects/Security_Project_NguyenMichel48962/Security_Nguyen/Security_Server/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=13.0.2+8
+user.dir=D:\Documents\NetBeansProjects\Security_Project_NguyenMichel48962\Security_Nguyen\Security_Server
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Chargeur de classe de la base de données démarré - derby.database.classpath = ''
